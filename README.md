@@ -34,6 +34,8 @@ If you have a difficult problem, please contact me.
 - **Sun Yat-sen University** - Information security graduate *(September 2015 ~ June 2020)*
 - **Guangdong Mingqi Computer Science Co., Ltd** - Front-end developer *(May 2019 ~ May 2020)*
 
+<br/>
+
 ### 💫 Summary
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 - 👯 I’m looking to collaborate on open-source games written in Godot
