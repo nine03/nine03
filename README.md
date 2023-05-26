@@ -24,7 +24,7 @@ If you have a difficult problem, please contact me.
 - **South China University of Technology** - Chinese language training *(September 2014 ~ September 2015)*
 - **Museum** - Chinese Interpreter *(September 2016 ~ September 2017)*
 - **Sun Yat-sen University** - Information security graduate *(September 2015 ~ June 2020)*
-- **Guangdong Mingqi Computer Science Co., Ltd** - Front-end developer *(May 2019 ~ May 2020)*
+- **Guangdong Mingqi Computer Science Co., Ltd** - Frontend developer *(May 2019 ~ May 2020)*
 - **Finished training course for Green Computer Academy** - Backend Developer *(November 2021 ~ May 2022)*
 - **Bizwiz System** - Backend Developer *(December 2022 ~ March 2023)*
 
