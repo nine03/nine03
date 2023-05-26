@@ -18,6 +18,8 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
+
+
 ### Hello, I'm Yeongjun Kim
 
 I am a machine learning and software developer in South Korea. I am interested in AI machine learning deep learning and software development.
@@ -56,7 +58,11 @@ If you have a difficult problem, please contact me.
 
 </td></tr></table>  
 </div>  
-  
+
+</br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongjun_10)](https://solved.ac/yeongjun_10/) [![opgc](https://api.opgc.me/githubs/users/nine03/tag/?theme=dracula)](https://opgc.me/#/users/nine03)
+
 
 <br/>  
 
