@@ -35,7 +35,7 @@ If you have a difficult problem, please contact me.
 
 </br>
 
-## ☎️ Content Me
+## ✉️ Contact Me
 <p>
 <a href="https://github.com/nine03" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
