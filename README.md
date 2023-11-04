@@ -30,7 +30,7 @@ If you have a difficult problem, please contact me.
 
 ### 💫 Summary
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
-- 👯 I’m expecting highly collaborative work on the well-written open-source project
+- 👯 I’m expecting highly collaborative work on the well written open source project
 - 😄 I’m looking for help with Artificial Intelligence and Machine Learning
 
 </br>
