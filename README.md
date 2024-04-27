@@ -37,22 +37,10 @@ If you have a difficult problem, please contact me.
 
 ## ✉️ Contact Me
 <p>
-<a href="https://github.com/nine03" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-  
-<a href="https://stackoverflow.com/users/10490779" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" /> 
-</a>
-  
-<a href="https://instagram.com/yeongjun91" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://velog.io/@youngjun_10" target="_blank">
-<img src=https://img.shields.io/badge/Velog-20C997?&style=for-the-badge&logo=velog&logoColor=white alt=Velog style="margin-bottom: 5px;" />
-</a>
-
+<a href="https://github.com/nine03" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
+<a href="https://stackoverflow.com/users/10490779" target="_blank"><img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" /></a>
+<a href="https://instagram.com/yeongjun91" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
+<a href="https://velog.io/@youngjun_10" target="_blank"><img src=https://img.shields.io/badge/Velog-20C997?&style=for-the-badge&logo=velog&logoColor=white alt=Velog style="margin-bottom: 5px;" /></a>
 </p>
 
 </br>
