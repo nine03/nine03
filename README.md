@@ -14,9 +14,9 @@
 ## 👀 About Me
 ### Hello, I'm Yeongjun Kim
 
-I am a machine learning and software developer in South Korea. I am interested in AI machine learning deep learning and software development.
-I like exercising, reading thesis and communication with people.
-
+I am a backend developer in South Korea. </br>
+I am interested in software development. </br>
+I like to communicate with people. </br>
 If you have a difficult problem, please contact me.
 
 ### 💻 Experience
@@ -28,12 +28,7 @@ If you have a difficult problem, please contact me.
 - **Finished training course for Green Computer Academy** - Backend Developer *(November 2021 ~ May 2022)*
 - **Bizwiz System** - Backend Developer *(December 2022 ~ March 2023)*
 - **SoulWare** - Backend Developer *(October 2022 ~ January 2024)*
-
-### 💫 Summary
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
-- 👯 I’m expecting highly collaborative work on the well written open source project
-- 😄 I’m looking for help with Artificial Intelligence and Machine Learning
-
+  
 </br>
 
 ## ✉️ Contact Me
