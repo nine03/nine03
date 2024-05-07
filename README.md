@@ -14,8 +14,8 @@
 ## 👀 About Me
 ### Hello, I'm Yeongjun Kim
 
-I am a backend developer in South Korea. </br>
-I am interested in software development. </br>
+I'm a backend developer in South Korea. </br>
+I'm interested in software development. </br>
 I like to communicate with people. </br>
 If you have a difficult problem, please contact me.
 
