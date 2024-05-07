@@ -29,6 +29,3 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
-
-## 📑 Ranking
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongjun_10)](https://solved.ac/yeongjun_10/) [![opgc](https://api.opgc.me/githubs/users/nine03/tag/?theme=dracula)](https://opgc.me/#/users/nine03)
