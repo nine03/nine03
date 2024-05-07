@@ -27,7 +27,7 @@ If you have a difficult problem, please contact me.
 - **Guangdong Mingqi Computer Science Co., Ltd** - Frontend developer *(May 2019 ~ May 2020)*
 - **Finished training course for Green Computer Academy** - Backend Developer *(November 2021 ~ May 2022)*
 - **Bizwiz System** - Backend Developer *(December 2022 ~ March 2023)*
-- **SoulWare** - Backend Developer *(October 2022 ~ January 2024)*
+- **SoulWare** - Backend Developer *(October 2023 ~ January 2024)*
   
 </br>
 
