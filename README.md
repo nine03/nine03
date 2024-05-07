@@ -4,7 +4,7 @@
    <a href="https://www.linkedin.com/in/nine03/" target="_blank"><img src="https://img.shields.io/badge/YeongjunKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/10490779" target="_blank"><img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=flat-square&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" /></a>
   <a href="https://instagram.com/yeongjun91" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=flat-square&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
-  <a href="youngjun_10@naver.com" target="_blank"><img src="https://img.shields.io/badge/youngjun_10@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:youngjun_10@naver.com" target="_blank"><img src="https://img.shields.io/badge/youngjun_10@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
