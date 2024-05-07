@@ -12,12 +12,15 @@
 <br/>  
 
 ## 👀 About Me
-### Hello, I'm Yeongjun Kim
+### 👋 Hi I'm Yeongjun Kim
 
-I'm a backend developer in South Korea. </br>
-I'm interested in software development. </br>
-I like to communicate with people. </br>
-If you have a difficult problem, please contact me.
+I'm a backend developer in South Korea using the Spring Framework based on Java. </br>
+
+✔️ I try to write code that is reusable and readable. </br>
+
+✔️ I like to communicate with people. </br>
+
+💡 I'm enjoy fixing errors. If you have a difficult problem, please contact me.
 
 ### 💻 Experience
 - **Guangdong Mingqi Computer Science Co., Ltd (China)** - Frontend developer *(May 2019 ~ May 2020)*
