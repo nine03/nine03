@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  👋 Hi there! I'm a <b>backend developer </b> in South Korea using the Spring Framework based on Java. 🚀</br>
+  👋 Hi there! I'm a <b>Backend Engineer </b> in South Korea using the Spring Framework based on Java. 🚀</br>
   I have experience one frontend development and two backend development. </br>
   At present, I have been interested in creating Spring Boot APIs with Java and a  web screen with React.</br>
   Sometimes I like to communicate with people. </br></br>
